@@ -1,0 +1,16 @@
+.rec {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, sans-serif;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+
+p {
+    font-size: 25px;
+    color: white;
+}
